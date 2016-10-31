@@ -1,0 +1,29 @@
+{
+  "name": "ts-json-definition",
+  "version": "0.0.1",
+  "description": "A basic JSON type definition for Typescript",
+  "keywords": [
+    "typescript",
+    "es6",
+    "ts",
+    "json",
+    "type",
+    "definition"
+  ],
+  "author": "Thomas Winckell",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomaswinckell/ts-json-definition.git"
+  },
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Tests coming soon...\" && exit 0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^2.0.3",
+    "typings": "^1.4.0"
+  }
+}
