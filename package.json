@@ -17,6 +17,7 @@
     "url": "https://github.com/thomaswinckell/ts-json-definition.git"
   },
   "files": [
+    "index.js",
     "index.d.ts",
     "README.md",
     "LICENSE"
