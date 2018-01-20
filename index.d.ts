@@ -6,7 +6,7 @@
  * @See https://github.com/Microsoft/TypeScript/issues/3496
  */
 
-type JsNotArrayValue = null|string|number|boolean|JsObject;
+type JsNotArrayValue = undefined|null|string|number|boolean|JsObject;
 
 export type JsArray = Array< JsNotArrayValue >;
 export type JsArray2 = Array< JsArray >;
