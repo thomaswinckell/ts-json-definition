@@ -27,10 +27,8 @@
   "scripts": {
     "test": "echo \"No test for now\" && exit 0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "typescript": "^2.1.4",
-    "typings": "^2.0.0"
+    "typescript": "2.6.2"
   }
 }
