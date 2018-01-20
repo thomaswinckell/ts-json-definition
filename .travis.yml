@@ -5,6 +5,7 @@ before_deploy:
   - rvm install 2.2.5
 deploy:
   provider: npm
+  skip_cleanup: true
   email: thomas.winckell@gmail.com
   api_key: $NPM_TOKEN
   on:
